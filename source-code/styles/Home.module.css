@@ -1,9 +1,10 @@
 .main {
 display: grid;
+/* the size of the code div area is determined by default 500px (see line below) */
 grid: 2.5rem 500px / auto-flow;
  text-align: center;
 margin: 10px;
-height: 100%;
+height: 80%;
 }
 
 
