@@ -25,7 +25,7 @@ export default function Home() {
 
         <div className={styles.sandBox}>
 
-          <p>You code goes in this div</p>
+          <p>Your code goes in this div</p>
         
         </div>
       </main>
